@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "krunaldbda",
+  "description": "testing git to linux ec2\r from krunal",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krunalpadade17021997/krunaldbda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krunalpadade17021997/krunaldbda/issues"
+  },
+  "homepage": "https://github.com/krunalpadade17021997/krunaldbda#readme"
+}
